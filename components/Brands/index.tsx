@@ -4,32 +4,32 @@ import Image from "next/image";
 const brandsData: Brand[] = [
   {
     id: 1,
-    name: "UIdeck",
-    href: "https://uideck.com",
+    name: "Java",
+    href: "https://java.com",
     image: "/images/brands/uideck.svg",
   },
   {
     id: 2,
-    name: "Tailgrids",
-    href: "https://tailgrids.com",
+    name: "React Typescript",
+    href: "https://react.org",
     image: "/images/brands/tailgrids.svg",
   },
   {
     id: 3,
-    name: "Lineicons",
-    href: "https://lineicons.com",
+    name: "AwS",
+    href: "https://aws.com",
     image: "/images/brands/lineicons.svg",
   },
   {
     id: 4,
-    name: "GrayGrids",
-    href: "https://graygrids.com",
+    name: "Azure",
+    href: "https://azure.com",
     image: "/images/brands/graygrids.svg",
   },
   {
     id: 5,
-    name: "TailAdmin",
-    href: "https://tailadmin.com",
+    name: "Firebase",
+    href: "https://firebase.com",
     image: "/images/brands/tailadmin.svg",
   },
 ];
