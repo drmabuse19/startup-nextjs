@@ -13,8 +13,8 @@ const Video = () => {
     <section className="relative z-10 py-16 md:py-20 lg:py-28">
       <div className="container">
         <SectionTitle
-          title="We are ready to help"
-          paragraph="There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some form."
+          title="Vi er her for å hjelpe"
+          paragraph="Hvorfor skal du velge å automatisere dine oppgaver?"
           center
           mb="80px"
         />
@@ -53,7 +53,7 @@ const Video = () => {
         autoplay={true}
         start={true}
         isOpen={isOpen}
-        videoId="L61p2uyiMSo"
+        videoId="p0bnQvFt7nE"
         onClose={() => setOpen(false)}
       />
 

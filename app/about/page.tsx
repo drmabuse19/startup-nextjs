@@ -7,9 +7,9 @@ const AboutPage = () => {
     <>
       <Breadcrumb
         pageName="About Page"
-        description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. In varius eros eget sapien consectetur ultrices. Ut quis dapibus libero."
+        description="Vi ønsker løsninger som er enkle å bruke, og som gir deg som kunde en god opplevelse. Vi er opptatt av å levere kvalitet i alle ledd, og vi har fokus på å levere til avtalt tid og pris."
       />
-      <AboutSectionOne />
+
       <AboutSectionTwo />
     </>
   );
