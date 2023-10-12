@@ -28,14 +28,14 @@ export default function Home() {
       <Blog />
       <Contact />*/ }
       <ScrollUp />
-      <Hero />
-      <Features />
+
+
       <Video />
       <Brands />
       <AboutSectionOne />
 
 
-
+      <Features />
       <Blog />
       <Contact />
     </>

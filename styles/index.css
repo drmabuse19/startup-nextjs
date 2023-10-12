@@ -14,7 +14,9 @@
   input[type="checkbox"]:checked ~ label span svg {
     @apply inline-flex;
   }
-
+.bg-light{
+  background-color: rgb(244, 108, 108);
+}
   .sticky .header-logo {
     @apply py-5 lg:py-2;
   }
